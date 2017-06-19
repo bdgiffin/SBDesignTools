@@ -1,6 +1,5 @@
 # Steel Bridge Design Tools
 #### A collection of useful excel spreadsheets for automated design workflow management
----
 ###Includes:
 - ####proto.BRIDGE
 	- An automated CAD to SAP model conversion tool
